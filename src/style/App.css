@@ -1,0 +1,18 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+button {
+  background-color: var(--primary);
+  color: #fff;
+  font-size: 2rem;
+  display: block;
+  margin: 0 auto;
+  height: 3.5rem;
+  width: 3.5rem;
+  border: none;
+  border-radius: 50%;
+  outline-width: 0;
+  cursor: pointer;
+}

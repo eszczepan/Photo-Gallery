@@ -1,0 +1,17 @@
+:root {
+  --primary: #d2091e;
+  --secondary: #434549;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+  color: var(--secondary);
+}
